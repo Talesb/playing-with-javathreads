@@ -1,4 +1,4 @@
-package com.talesb.playingthreads.subscriptions;
+package com.talesb.playingthreads.subscriptionsexample;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package com.talesb.playingthreads.subscriptions;
+package com.talesb.playingthreads.subscriptionsexample;
 
 public class Main {
 	
